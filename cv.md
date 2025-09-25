@@ -1,3 +1,4 @@
+![a photo of Kamila Urusova](images/kamila-urusova.jpeg)
 # Kamila Urusova
 **Contact info:** +7 (995) 170-41-40 / kamilaurusova7@gmail.com / discord: [Kamila Urusova (@kqmilv)](https://discord.com/users/turka5599)
 
