@@ -22,6 +22,7 @@ console.log(multiply(2, 3)); // Output: 6
 ```
 
 ## Work Experience
+- **Completed Projects:** [CV project](https://github.com/kqmilv/rsschool-cv)
 - **Front-End Practice:** Multiply Function (Codewars Beginner Task)
 - **Skills used:** JavaScript basics
 - **Description:** Solved a beginner-level Codewars task to create a function that multiplies two numbers.
